@@ -1,0 +1,1 @@
+<?php /**PATH D:\tugas-fw\resources\views/footer.blade.php ENDPATH**/ ?>
